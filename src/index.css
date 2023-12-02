@@ -1,0 +1,30 @@
+.ant-btn-primary{
+  background-color: #3fc060 !important;
+  border-color:#3fc060 !important;
+}
+.ant-btn-secondary{
+  background-color: #88d39b !important;
+  border-color:#c95d95 !important;
+}
+.ant-btn-danger{
+ color: rgb(216, 25, 25)!important;
+  border-color:rgb(216, 25, 25)!important;
+
+}
+.ant-pagination-item-active{
+  border-color: #3fc060 !important;
+  color: white;
+}
+li.ant-pagination-item-active a {
+   color: #3fc060 !important;
+}
+.ant-menu-item-selected {
+  background-color: #3db56f !important;
+}
+.ant-menu-item-selected span{
+  color:white !important
+}
+.ant-menu-item-active {
+  color: #3fc060 !important;
+ 
+}
